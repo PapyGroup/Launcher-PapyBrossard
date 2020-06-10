@@ -1,0 +1,14 @@
+C:\Users\thiba\Desktop\PapyBro Launcher\PapyBrossard\PapyBrossard\bin\Debug\PapyBrossard.exe.config
+C:\Users\thiba\Desktop\PapyBro Launcher\PapyBrossard\PapyBrossard\bin\Debug\PapyBrossard.exe
+C:\Users\thiba\Desktop\PapyBro Launcher\PapyBrossard\PapyBrossard\bin\Debug\PapyBrossard.pdb
+C:\Users\thiba\Desktop\PapyBro Launcher\PapyBrossard\PapyBrossard\obj\Debug\PapyBrossard.csprojAssemblyReference.cache
+C:\Users\thiba\Desktop\PapyBro Launcher\PapyBrossard\PapyBrossard\obj\Debug\PapyBrossard.Form1.resources
+C:\Users\thiba\Desktop\PapyBro Launcher\PapyBrossard\PapyBrossard\obj\Debug\PapyBrossard.Properties.Resources.resources
+C:\Users\thiba\Desktop\PapyBro Launcher\PapyBrossard\PapyBrossard\obj\Debug\PapyBrossard.csproj.GenerateResource.cache
+C:\Users\thiba\Desktop\PapyBro Launcher\PapyBrossard\PapyBrossard\obj\Debug\PapyBrossard.csproj.CoreCompileInputs.cache
+C:\Users\thiba\Desktop\PapyBro Launcher\PapyBrossard\PapyBrossard\obj\Debug\PapyBrossard.exe
+C:\Users\thiba\Desktop\PapyBro Launcher\PapyBrossard\PapyBrossard\obj\Debug\PapyBrossard.pdb
+C:\Users\thiba\Desktop\PapyBro Launcher\PapyBrossard\PapyBrossard\bin\Debug\PapyBrossard.exe.manifest
+C:\Users\thiba\Desktop\PapyBro Launcher\PapyBrossard\PapyBrossard\bin\Debug\PapyBrossard.application
+C:\Users\thiba\Desktop\PapyBro Launcher\PapyBrossard\PapyBrossard\obj\Debug\PapyBrossard.exe.manifest
+C:\Users\thiba\Desktop\PapyBro Launcher\PapyBrossard\PapyBrossard\obj\Debug\PapyBrossard.application
